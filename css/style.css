@@ -1,16 +1,22 @@
+.mynav{
+    background-image: url(../images/02-hero-bg.jpg);
+    height: 500px;
+}
+
+
 .navbar .navbar-brand {
     color: #fff;
     font-size: 40px;
-    background-color: rgb(18, 154, 161)
+    background-color: rgb(18, 154, 161);
+   
 }
-h1{
-    color: blue;
-}
+
 .navbar .navbar-nav  {
    margin: 0 0 0 auto;
-    background-color:rgb(18, 154, 161);
+   background-color:rgb(18, 154, 161);
 }
 
 .navbar .nav-item a{
-        color: white !important;
-        font-size: 28px;}
+    color: white !important;
+    font-size: 28px;
+    text-decoration:underline;}
