@@ -44,8 +44,10 @@
     top:30px;}
 
 /* Adding styles to Work section */
+
+
 .my-wk{
-    font-size: 50px;
+    font-size: 32px;
     display: flex;
     justify-content: center;
 }
