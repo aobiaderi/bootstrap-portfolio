@@ -35,3 +35,8 @@
     max-width: 75%;
 } 
 
+.my-wk{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
