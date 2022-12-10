@@ -58,3 +58,53 @@
     justify-content: center;
     margin-left: 180px;
 }
+
+/* .jumbotron-special { 
+   display:flex;
+   width:100%;
+} */
+
+.jumbotron-special .about-1 {
+    display:flex;
+    width:75%;
+}
+
+.jumbotron-special #abt-1 {
+    color: blue;
+    font-size: 32px;
+}
+
+.jumbotron-special #abt-2 {
+    font-size: 18px;
+}
+
+.jumbotron-special .my-image {
+    display:flex;
+    width: 20%;
+    height: 300px;
+    /* position:fixed;
+    left:1050px;
+    bottom:300px; */
+  }
+
+
+ 
+/* Style buttons */
+.about-me .btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+   
+  }
+  
+  /* Darker background on mouse-over */
+  .about-me .btn:hover {
+    background-color: RoyalBlue;
+  }
+ .about-me .my-image{
+    border-radius: 50%;
+    height: 300px; 
+ }
