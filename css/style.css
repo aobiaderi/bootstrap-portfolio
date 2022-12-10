@@ -8,7 +8,7 @@
     width:25% 75%;
 } */
 
-
+/* Adding styles to Navbar  */
 .navbar .navbar-brand {
     color: #fff;
     font-size: 40px;
@@ -29,16 +29,21 @@
     font-size: 28px;
     }
 
+/* Adding styles to Welcome section  */
+
 .jumbotron .display-4,
 .jumbotron .lead  {
-    margin: 0 auto;
-    max-width: 75%;
+    margin: 10px auto;
+    max-width: 50%;
+
+/*Positioning the hire me button  */
 } 
 .jumbotron .btn-primary {
     position:relative;
-left: 180px;
-top:20px;}
+    left: 360px;
+    top:30px;}
 
+/* Adding styles to Work section */
 .my-wk{
     font-size: 50px;
     display: flex;
