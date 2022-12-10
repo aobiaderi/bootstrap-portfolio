@@ -28,3 +28,10 @@
     color: white !important;
     font-size: 28px;
     }
+
+.jumbotron .display-4,
+.jumbotron .lead {
+    margin: 0 auto;
+    max-width: 75%;
+} 
+
