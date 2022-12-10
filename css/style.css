@@ -40,3 +40,13 @@
     display: flex;
     justify-content: center;
 }
+/* .card{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}  */
+.cardContainer {
+    margin-bottom: 15px;
+}
+.card .card-img{
+    margin: 350px auto;}
