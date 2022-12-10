@@ -12,7 +12,7 @@
 .navbar .navbar-brand {
     color: #fff;
     font-size: 40px;
-    background-color: rgb(18, 154, 161);
+    /* background-color: rgb(18, 154, 161); */
     padding-left: 20px;
     padding-right: 10px;
     margin-left: 0;
@@ -21,7 +21,7 @@
 
 .navbar .navbar-nav  {
    margin: 0 0 0 auto;
-   background-color:rgb(18, 154, 161);
+   /* background-color:rgb(18, 154, 161); */
 }
 
 .navbar .nav-item a{
@@ -30,23 +30,24 @@
     }
 
 .jumbotron .display-4,
-.jumbotron .lead {
+.jumbotron .lead  {
     margin: 0 auto;
     max-width: 75%;
 } 
+.jumbotron .btn-primary {
+    position:relative;
+left: 180px;
+top:20px;}
 
 .my-wk{
     font-size: 50px;
     display: flex;
     justify-content: center;
 }
-/* .card{
-    display: flex;
-    justify-content: center;
-    align-content: center;
-}  */
+
 .cardContainer {
+    display: grid;
     margin-bottom: 15px;
+    justify-content: center;
+    margin-left: 180px;
 }
-.card .card-img{
-    margin: 350px auto;}
