@@ -1,13 +1,21 @@
-.mynav{
-    background-image: url(../images/02-hero-bg.jpg);
-    height: 500px;
-}
+/* .mynav{ */
+    /* background-image: url(../images/02-hero-bg.jpg);
+    background-image: url(../images/Obee1.jpg); */
+    
+    /* background: url(../images/02-hero-bg.jpg) right bottom no-repeat, url(../images/Obee1.jpg) left top no-repeat;
+
+    height: 300px;
+    width:25% 75%;
+} */
 
 
 .navbar .navbar-brand {
     color: #fff;
     font-size: 40px;
     background-color: rgb(18, 154, 161);
+    padding-left: 20px;
+    padding-right: 10px;
+    margin-left: 0;
    
 }
 
@@ -19,4 +27,4 @@
 .navbar .nav-item a{
     color: white !important;
     font-size: 28px;
-    text-decoration:underline;}
+    }
