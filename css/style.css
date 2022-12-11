@@ -1,33 +1,25 @@
-/* .mynav{ */
-    /* background-image: url(../images/02-hero-bg.jpg);
-    background-image: url(../images/Obee1.jpg); */
-    
-    /* background: url(../images/02-hero-bg.jpg) right bottom no-repeat, url(../images/Obee1.jpg) left top no-repeat;
-
-    height: 300px;
-    width:25% 75%;
-} */
 
 /* Adding styles to Navbar  */
 .navbar .navbar-brand {
     color: #fff;
     font-size: 40px;
-    /* background-color: rgb(18, 154, 161); */
     padding-left: 20px;
     padding-right: 10px;
-    margin-left: 0;
-   
+    margin-left: 0; 
 }
 
 .navbar .navbar-nav  {
-   margin: 0 0 0 auto;
-   /* background-color:rgb(18, 154, 161); */
+   margin: 0 0 0 auto;  
 }
 
 .navbar .nav-item a{
     color: white !important;
     font-size: 28px;
-    }
+}
+
+.navbar .nav-item a:hover{
+    background-color: blue;
+}
 
 /* Adding styles to Welcome section  */
 
