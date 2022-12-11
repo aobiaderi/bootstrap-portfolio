@@ -43,7 +43,11 @@
     justify-content: center;
     margin-left: 180px;
 }
+/* Transforming the work section */
 
+.card:hover{ 
+  transform:scale(1.05);
+}
  
 /* Style buttons */
 .about-me .btn {
