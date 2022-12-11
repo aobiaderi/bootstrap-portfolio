@@ -41,7 +41,8 @@
 .jumbotron .btn-primary {
     position:relative;
     left: 360px;
-    top:30px;}
+    top:30px;
+    color: #fff !important;}
 
 /* Adding styles to Work section */
 
@@ -64,28 +65,11 @@
    width:100%;
 } */
 
-.jumbotron-special .about-1 {
-    display:flex;
-    width:75%;
-}
 
-.jumbotron-special #abt-1 {
-    color: blue;
-    font-size: 32px;
-}
 
 .jumbotron-special #abt-2 {
     font-size: 18px;
 }
-
-.jumbotron-special .my-image {
-    display:flex;
-    width: 20%;
-    height: 300px;
-    /* position:fixed;
-    left:1050px;
-    bottom:300px; */
-  }
 
 
  
@@ -108,3 +92,22 @@
     border-radius: 50%;
     height: 300px; 
  }
+  #abt-1 {
+    color: #fff;
+    font-size: 32px;
+    
+    
+}
+.abt-section{
+    background-color: gray;
+    padding-top: 10px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.about-1{
+    margin: 30px;
+}
+#abt-2{
+    font-size: 18px;
+    color: #fff;
+}
