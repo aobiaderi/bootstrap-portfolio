@@ -34,7 +34,8 @@
 /*Styling the hire me button  */
  
 .jumbotron .btn-primary {
-   color: #fff !important;}
+   color: #fff !important;
+   cursor:pointer}
 
 /* Adding styles to Work section */
 
@@ -62,8 +63,7 @@
     font-size: 20px;
     position:relative;
     left: 20px;
-    
-   
+ 
   }
   
   /* Darker background on mouse-over */
@@ -71,6 +71,7 @@
     background-color: RoyalBlue;
   }
  .about-me .my-image{
+    
     border-radius: 50%;
     height: 250px; 
  }
@@ -111,26 +112,31 @@
     margin: 35px;
 }
 #ct-2{
-    font-size: larger;
+    font-size: 22px;
     color:black;
 }
-.contact-2{
-    margin: 20px;
-}
+
 #ct-1 {
     color: black;
     font-size: 32px;    
 }
 
 #ct-3{
-    font-size: larger;
+    font-size: 22px;
     color:black;
 }
 
-.contact-me1{
-    margin: 20px;
-    font-size: larger;
+
+#nb,#ema{
+    color:dodgerblue;
+    font-size: 20px;
 }
+/* Darker and bolder background on hover */
+#nb:hover,
+#ema:hover{
+    color:royalblue;
+    font-weight: bold;}
+
 /* Styling footer */
 .linkd, .gh, .fb{
     color:dodgerblue;
