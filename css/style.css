@@ -51,6 +51,7 @@
     font-size: 32px;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .cardContainer {
@@ -71,7 +72,7 @@
     font-size: 20px;
     position:relative;
     left: 20px;
-    top:20px;
+    
    
   }
   
@@ -139,4 +140,12 @@
 .contact-me1{
     margin: 20px;
     font-size: larger;
+}
+/* Styling footer */
+.linkd{
+    color:rgb(0, 0, 255);
+}
+
+.linkd:hover{
+    color:rgb(85, 51, 3);
 }
