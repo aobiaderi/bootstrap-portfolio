@@ -105,3 +105,37 @@
 .about-2{
     margin: 20px;
 }
+/* Add styling to Contact Me */
+
+.contact-section{
+    background-color: #d3d3d3;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    margin-bottom: 40px;
+    margin-top: 0px;
+}
+
+.contact-1{
+    margin: 35px;
+}
+#ct-2{
+    font-size: larger;
+    color:black;
+}
+.contact-2{
+    margin: 20px;
+}
+#ct-1 {
+    color: black;
+    font-size: 32px;    
+}
+
+#ct-3{
+    font-size: larger;
+    color:black;
+}
+
+.contact-me1{
+    margin: 20px;
+    font-size: larger;
+}
