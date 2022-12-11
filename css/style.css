@@ -31,18 +31,10 @@
 
 /* Adding styles to Welcome section  */
 
-.jumbotron .display-4,
-.jumbotron .lead  {
-    margin: 10px auto;
-    max-width: 50%;
-
-/*Positioning the hire me button  */
-} 
+/*Styling the hire me button  */
+ 
 .jumbotron .btn-primary {
-    position:relative;
-    left: 360px;
-    top:30px;
-    color: #fff !important;}
+   color: #fff !important;}
 
 /* Adding styles to Work section */
 
