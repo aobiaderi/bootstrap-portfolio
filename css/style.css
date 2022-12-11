@@ -137,7 +137,9 @@
 .linkd, .gh, .fb{
     color:dodgerblue;
     font-size: 40px;
-    text-decoration: none;       
+    text-decoration: none !important;
+    margin:0 10px;
+          
 }
 
 .linkd:hover,
@@ -148,4 +150,5 @@
 
 .my-media{
     margin-bottom: 30px;
+    
 }
