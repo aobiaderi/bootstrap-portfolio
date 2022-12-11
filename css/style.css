@@ -49,9 +49,7 @@
 
 .my-wk{
     font-size: 32px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  
 }
 
 .cardContainer {
@@ -145,8 +143,13 @@
 .linkd, .gh, .fb{
     color:dodgerblue;
     font-size: 40px;
+    margin: 10px;
+    padding-left:20px;
+       
 }
 
-.linkd:hover{
+.linkd:hover,
+.gh:hover,
+.fb:hover{
     color:royalblue;
 }
