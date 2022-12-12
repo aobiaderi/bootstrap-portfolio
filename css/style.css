@@ -119,15 +119,17 @@
 }
 
 
-
-
 #nb,#ema,#ht,#cs,#jscp,#rct{
     color:dodgerblue;
     font-size: 24px;
 }
 /* Darker and bolder background on hover */
 #nb:hover,
-#ema:hover{
+#ema:hover,
+#ht:hover,
+#cs:hover,
+#jscp:hover,
+#rct:hover{
     color:royalblue;
     font-weight: bold;}
 
