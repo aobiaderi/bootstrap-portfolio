@@ -93,9 +93,9 @@
 .about-2{
     margin: 20px;
 }
-/* Add styling to Contact Me */
+/* Add styling to Contact Me and Skills */
 
-.contact-section{
+.contact-section,.skills-section{
     /* background-color: #d3d3d3; */
     background-color: #eee;
     padding-top: 10px;
@@ -103,29 +103,27 @@
     margin-bottom: 40px;
    
 }
-
-.contact-1{
+/* Dry out code */
+.contact-1,.skill-1{
     margin: 35px;
 }
-#ct-2{
+
+#ct-2,#ct-3,#sk-3,#sk-4,#sk-5{
     font-size: 22px;
     color:black;
 }
 
-#ct-1 {
+#ct-1,#sk-1 {
     color: black;
     font-size: 32px;    
 }
 
-#ct-3{
-    font-size: 22px;
-    color:black;
-}
 
 
-#nb,#ema{
+
+#nb,#ema,#ht,#cs,#jscp,#rct{
     color:dodgerblue;
-    font-size: 20px;
+    font-size: 24px;
 }
 /* Darker and bolder background on hover */
 #nb:hover,
